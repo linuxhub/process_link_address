@@ -1,12 +1,10 @@
 
+æ ¹æ®è¿›ç¨‹åç§°èŽ·å–è¿œç¨‹è¿žæŽ¥çš„IPåœ°å€
 process_link_address.py
+Example:
+ ./process_link_address.py
 
-¸ù¾Ý½ø³ÌÃû³Æ»ñÈ¡Ô¶³ÌÁ¬½ÓµÄIPµØÖ·
-
-./process_link_address.py
-
-
-¹¤×÷Á÷³Ì:
---> ¸ù¾Ý½ø³ÌÃû³ÆÈ¡³öpid,
---> È»ºó¸ù¾ÝpidÈ¡³öÓëÆäÁ¬½ÓµÄÔ¶³Ìip,
---> ×îºóµ÷ÓÃÌÔ±¦ip¿âÈ¡³öÎ»ÖÃÐÅÏ¢
+å·¥ä½œæµç¨‹:
+--> æ ¹æ®è¿›ç¨‹åç§°å–å‡ºpid,
+--> ç„¶åŽæ ¹æ®pidå–å‡ºä¸Žå…¶è¿žæŽ¥çš„è¿œç¨‹ip,
+--> æœ€åŽè°ƒç”¨æ·˜å®ipåº“å–å‡ºä½ç½®ä¿¡æ¯
